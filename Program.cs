@@ -15,7 +15,7 @@ namespace abstract_class
     {
         public override void Draw()
         {
-            Console.WriteLine("Draw Line");
+            Console.WriteLine("Draw Triangle");
         }
 
     }
@@ -24,7 +24,7 @@ namespace abstract_class
     {
         public override void Draw()
         {
-            Console.WriteLine("Draws Rectangle");
+            Console.WriteLine("Draws Circle");
         }
     }
 
